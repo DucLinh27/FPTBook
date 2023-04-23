@@ -263,6 +263,10 @@ namespace WebApplication123.Controllers
         public async Task<IActionResult> SearchBook(string Search)
         {
             var search_list = new List<Book>();
+            if (Search == null || Search == "")
+            {
+                return RedirectToAction("BookProduct");
+            }
             foreach (var book in context.Books.ToList())
             {
                 if (book.Name.Contains(Search))

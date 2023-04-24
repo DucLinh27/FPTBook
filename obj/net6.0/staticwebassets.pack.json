@@ -1,0 +1,1433 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\1670\\Application-Developement-\\obj\\net6.0\\scopedcss\\projectbundle\\WebApplication123.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication123.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\065c8ac6-914f-43ba-9421-9dab04c14045_3e5133a7-9305-405a-a365-f30691351266_76d8c132-080e-43ac-8868-b2bead7158de_Book8.jpg",
+      "PackagePath": "staticwebassets\\Images\\065c8ac6-914f-43ba-9421-9dab04c14045_3e5133a7-9305-405a-a365-f30691351266_76d8c132-080e-43ac-8868-b2bead7158de_Book8.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\075c80eb-2639-48c6-b6fa-040321304c71_Book7.jpg",
+      "PackagePath": "staticwebassets\\Images\\075c80eb-2639-48c6-b6fa-040321304c71_Book7.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\0a88d401-41c2-4c9a-8d79-4e008f728396_9d80ab2c-646b-4785-b331-fd6525a3879a_Book2.jpg",
+      "PackagePath": "staticwebassets\\Images\\0a88d401-41c2-4c9a-8d79-4e008f728396_9d80ab2c-646b-4785-b331-fd6525a3879a_Book2.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\10c8be5b-cd4c-4874-abee-21216f8725e2_42e1b2e0-8377-4068-b03f-22a4e720e08e_Book11.JPG",
+      "PackagePath": "staticwebassets\\Images\\10c8be5b-cd4c-4874-abee-21216f8725e2_42e1b2e0-8377-4068-b03f-22a4e720e08e_Book11.JPG"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\152079e2-d0f5-49cf-a1ea-becf808cb952_0a88d401-41c2-4c9a-8d79-4e008f728396_9d80ab2c-646b-4785-b331-fd6525a3879a_Book2.jpg",
+      "PackagePath": "staticwebassets\\Images\\152079e2-d0f5-49cf-a1ea-becf808cb952_0a88d401-41c2-4c9a-8d79-4e008f728396_9d80ab2c-646b-4785-b331-fd6525a3879a_Book2.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\163a6f69-ab16-45c8-82ef-6227dfbd1873_075c80eb-2639-48c6-b6fa-040321304c71_Book7.jpg",
+      "PackagePath": "staticwebassets\\Images\\163a6f69-ab16-45c8-82ef-6227dfbd1873_075c80eb-2639-48c6-b6fa-040321304c71_Book7.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\1907b99e-4a9a-43ad-9147-4826942358fd_42e1b2e0-8377-4068-b03f-22a4e720e08e_Book11.JPG",
+      "PackagePath": "staticwebassets\\Images\\1907b99e-4a9a-43ad-9147-4826942358fd_42e1b2e0-8377-4068-b03f-22a4e720e08e_Book11.JPG"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\1be12d53-50ea-4795-999f-2f0c894773be_9d80ab2c-646b-4785-b331-fd6525a3879a_Book2.jpg",
+      "PackagePath": "staticwebassets\\Images\\1be12d53-50ea-4795-999f-2f0c894773be_9d80ab2c-646b-4785-b331-fd6525a3879a_Book2.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\212de750-7360-4936-8d1b-4ca3cc506a05_10c8be5b-cd4c-4874-abee-21216f8725e2_42e1b2e0-8377-4068-b03f-22a4e720e08e_Book11.JPG",
+      "PackagePath": "staticwebassets\\Images\\212de750-7360-4936-8d1b-4ca3cc506a05_10c8be5b-cd4c-4874-abee-21216f8725e2_42e1b2e0-8377-4068-b03f-22a4e720e08e_Book11.JPG"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\23bf92d4-a3e8-466a-be30-493041bc2106_10c8be5b-cd4c-4874-abee-21216f8725e2_42e1b2e0-8377-4068-b03f-22a4e720e08e_Book11.JPG",
+      "PackagePath": "staticwebassets\\Images\\23bf92d4-a3e8-466a-be30-493041bc2106_10c8be5b-cd4c-4874-abee-21216f8725e2_42e1b2e0-8377-4068-b03f-22a4e720e08e_Book11.JPG"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\2777d609-0a03-4271-921a-cd5f8f674fc5_0a88d401-41c2-4c9a-8d79-4e008f728396_9d80ab2c-646b-4785-b331-fd6525a3879a_Book2.jpg",
+      "PackagePath": "staticwebassets\\Images\\2777d609-0a03-4271-921a-cd5f8f674fc5_0a88d401-41c2-4c9a-8d79-4e008f728396_9d80ab2c-646b-4785-b331-fd6525a3879a_Book2.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\37541bfe-9a8d-4dab-9d7e-e5ea4cc9bd46_Book4.webp",
+      "PackagePath": "staticwebassets\\Images\\37541bfe-9a8d-4dab-9d7e-e5ea4cc9bd46_Book4.webp"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\3e5133a7-9305-405a-a365-f30691351266_76d8c132-080e-43ac-8868-b2bead7158de_Book8.jpg",
+      "PackagePath": "staticwebassets\\Images\\3e5133a7-9305-405a-a365-f30691351266_76d8c132-080e-43ac-8868-b2bead7158de_Book8.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\41e3485f-30fa-4224-9240-995b2282a81a_9d80ab2c-646b-4785-b331-fd6525a3879a_Book2.jpg",
+      "PackagePath": "staticwebassets\\Images\\41e3485f-30fa-4224-9240-995b2282a81a_9d80ab2c-646b-4785-b331-fd6525a3879a_Book2.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\41f45699-1c4f-43a7-b355-d04b2c26b58f_10c8be5b-cd4c-4874-abee-21216f8725e2_42e1b2e0-8377-4068-b03f-22a4e720e08e_Book11.JPG",
+      "PackagePath": "staticwebassets\\Images\\41f45699-1c4f-43a7-b355-d04b2c26b58f_10c8be5b-cd4c-4874-abee-21216f8725e2_42e1b2e0-8377-4068-b03f-22a4e720e08e_Book11.JPG"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\42bed59a-260c-40c1-9c56-f9eefe83ad18_9d80ab2c-646b-4785-b331-fd6525a3879a_Book2.jpg",
+      "PackagePath": "staticwebassets\\Images\\42bed59a-260c-40c1-9c56-f9eefe83ad18_9d80ab2c-646b-4785-b331-fd6525a3879a_Book2.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\42e1b2e0-8377-4068-b03f-22a4e720e08e_Book11.JPG",
+      "PackagePath": "staticwebassets\\Images\\42e1b2e0-8377-4068-b03f-22a4e720e08e_Book11.JPG"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\4ce6cf37-3b2f-4733-8aa0-9d08ab5b179b_biatruyen.webp",
+      "PackagePath": "staticwebassets\\Images\\4ce6cf37-3b2f-4733-8aa0-9d08ab5b179b_biatruyen.webp"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\55042a67-fdf1-438f-9da9-19770c77c995_af684410-da62-4096-914d-520242aa0b51_Book14.jpg",
+      "PackagePath": "staticwebassets\\Images\\55042a67-fdf1-438f-9da9-19770c77c995_af684410-da62-4096-914d-520242aa0b51_Book14.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\5f04ce54-597f-4db3-823e-15f9a6a78893_896448bb-a8c1-4899-879a-a200d0b2becb_Book4.webp",
+      "PackagePath": "staticwebassets\\Images\\5f04ce54-597f-4db3-823e-15f9a6a78893_896448bb-a8c1-4899-879a-a200d0b2becb_Book4.webp"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\6084abfe-0677-491a-b3bc-a87b98aa4a87_9d80ab2c-646b-4785-b331-fd6525a3879a_Book2.jpg",
+      "PackagePath": "staticwebassets\\Images\\6084abfe-0677-491a-b3bc-a87b98aa4a87_9d80ab2c-646b-4785-b331-fd6525a3879a_Book2.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\65bfeb37-c83c-4d50-a6fa-1d746e03b548_ssss.png",
+      "PackagePath": "staticwebassets\\Images\\65bfeb37-c83c-4d50-a6fa-1d746e03b548_ssss.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\66a6810f-db48-4214-aef7-3368cab1bab7_9d80ab2c-646b-4785-b331-fd6525a3879a_Book2.jpg",
+      "PackagePath": "staticwebassets\\Images\\66a6810f-db48-4214-aef7-3368cab1bab7_9d80ab2c-646b-4785-b331-fd6525a3879a_Book2.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\68a4f583-db65-4be3-b719-87596425013b_075c80eb-2639-48c6-b6fa-040321304c71_Book7.jpg",
+      "PackagePath": "staticwebassets\\Images\\68a4f583-db65-4be3-b719-87596425013b_075c80eb-2639-48c6-b6fa-040321304c71_Book7.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\7464a3be-556d-4893-8ab1-42f8f6ab419a_9025bab8-b1c7-46b3-a5bd-cced598fa506_075c80eb-2639-48c6-b6fa-040321304c71_Book7.jpg",
+      "PackagePath": "staticwebassets\\Images\\7464a3be-556d-4893-8ab1-42f8f6ab419a_9025bab8-b1c7-46b3-a5bd-cced598fa506_075c80eb-2639-48c6-b6fa-040321304c71_Book7.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\76d8c132-080e-43ac-8868-b2bead7158de_Book8.jpg",
+      "PackagePath": "staticwebassets\\Images\\76d8c132-080e-43ac-8868-b2bead7158de_Book8.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\7b3a468a-ee33-438f-8d22-4f54fb21f483_075c80eb-2639-48c6-b6fa-040321304c71_Book7.jpg",
+      "PackagePath": "staticwebassets\\Images\\7b3a468a-ee33-438f-8d22-4f54fb21f483_075c80eb-2639-48c6-b6fa-040321304c71_Book7.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\87ad1096-34a2-4578-9fc2-6a775f499a34_10c8be5b-cd4c-4874-abee-21216f8725e2_42e1b2e0-8377-4068-b03f-22a4e720e08e_Book11.JPG",
+      "PackagePath": "staticwebassets\\Images\\87ad1096-34a2-4578-9fc2-6a775f499a34_10c8be5b-cd4c-4874-abee-21216f8725e2_42e1b2e0-8377-4068-b03f-22a4e720e08e_Book11.JPG"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\896448bb-a8c1-4899-879a-a200d0b2becb_Book4.webp",
+      "PackagePath": "staticwebassets\\Images\\896448bb-a8c1-4899-879a-a200d0b2becb_Book4.webp"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\9025bab8-b1c7-46b3-a5bd-cced598fa506_075c80eb-2639-48c6-b6fa-040321304c71_Book7.jpg",
+      "PackagePath": "staticwebassets\\Images\\9025bab8-b1c7-46b3-a5bd-cced598fa506_075c80eb-2639-48c6-b6fa-040321304c71_Book7.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\9989ab5a-8fd1-42f8-988f-c4ea243ba326_Book14.jpg",
+      "PackagePath": "staticwebassets\\Images\\9989ab5a-8fd1-42f8-988f-c4ea243ba326_Book14.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\9d80ab2c-646b-4785-b331-fd6525a3879a_Book2.jpg",
+      "PackagePath": "staticwebassets\\Images\\9d80ab2c-646b-4785-b331-fd6525a3879a_Book2.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\9d9e6b27-1a11-4f64-b47d-62c49d0aa594_Book2.jpg",
+      "PackagePath": "staticwebassets\\Images\\9d9e6b27-1a11-4f64-b47d-62c49d0aa594_Book2.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\Book1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book1.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\Book10.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book10.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\Book11.JPG",
+      "PackagePath": "staticwebassets\\Images\\Book11.JPG"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\Book12.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book12.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\Book13.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book13.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\Book14.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book14.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\Book15.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book15.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\Book16.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book16.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\Book17.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book17.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\Book18.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book18.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\Book19.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book19.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\Book2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book2.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\Book20.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book20.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\Book21",
+      "PackagePath": "staticwebassets\\Images"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\Book22.htm",
+      "PackagePath": "staticwebassets\\Images\\Book22.htm"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\Book22.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book22.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\Book23.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book23.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\Book3.webp",
+      "PackagePath": "staticwebassets\\Images\\Book3.webp"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\Book4.webp",
+      "PackagePath": "staticwebassets\\Images\\Book4.webp"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\Book6.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book6.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\Book7.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book7.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\Book8.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book8.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\Book9.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book9.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\Image01.webp",
+      "PackagePath": "staticwebassets\\Images\\Image01.webp"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\Screenshot 2023-04-20 102121.png",
+      "PackagePath": "staticwebassets\\Images\\Screenshot 2023-04-20 102121.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\a8479eb3-f6f8-49c9-adb2-d27efcb9cb12_23bf92d4-a3e8-466a-be30-493041bc2106_10c8be5b-cd4c-4874-abee-21216f8725e2_42e1b2e0-8377-4068-b03f-22a4e720e08e_Book11.JPG",
+      "PackagePath": "staticwebassets\\Images\\a8479eb3-f6f8-49c9-adb2-d27efcb9cb12_23bf92d4-a3e8-466a-be30-493041bc2106_10c8be5b-cd4c-4874-abee-21216f8725e2_42e1b2e0-8377-4068-b03f-22a4e720e08e_Book11.JPG"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\aaf88025-e959-409f-8a77-d87acdb062e9_10c8be5b-cd4c-4874-abee-21216f8725e2_42e1b2e0-8377-4068-b03f-22a4e720e08e_Book11.JPG",
+      "PackagePath": "staticwebassets\\Images\\aaf88025-e959-409f-8a77-d87acdb062e9_10c8be5b-cd4c-4874-abee-21216f8725e2_42e1b2e0-8377-4068-b03f-22a4e720e08e_Book11.JPG"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\af684410-da62-4096-914d-520242aa0b51_Book14.jpg",
+      "PackagePath": "staticwebassets\\Images\\af684410-da62-4096-914d-520242aa0b51_Book14.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\b3049279-019d-4162-8c23-a7e4555b870f_3e5133a7-9305-405a-a365-f30691351266_76d8c132-080e-43ac-8868-b2bead7158de_Book8.jpg",
+      "PackagePath": "staticwebassets\\Images\\b3049279-019d-4162-8c23-a7e4555b870f_3e5133a7-9305-405a-a365-f30691351266_76d8c132-080e-43ac-8868-b2bead7158de_Book8.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\biatruyen.webp",
+      "PackagePath": "staticwebassets\\Images\\biatruyen.webp"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\book5.png",
+      "PackagePath": "staticwebassets\\Images\\book5.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\c0dd75cc-cdd8-4cf7-934f-079a70128611_biatruyen.webp",
+      "PackagePath": "staticwebassets\\Images\\c0dd75cc-cdd8-4cf7-934f-079a70128611_biatruyen.webp"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\c9d6b20c-5269-460a-9643-68a6e5df9354_Book11.JPG",
+      "PackagePath": "staticwebassets\\Images\\c9d6b20c-5269-460a-9643-68a6e5df9354_Book11.JPG"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\ce99bd55-84bf-432a-8fb0-19b1d6869256_9989ab5a-8fd1-42f8-988f-c4ea243ba326_Book14.jpg",
+      "PackagePath": "staticwebassets\\Images\\ce99bd55-84bf-432a-8fb0-19b1d6869256_9989ab5a-8fd1-42f8-988f-c4ea243ba326_Book14.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\d01dec51-de07-4f87-a633-192cb0407e88_Book15.jpg",
+      "PackagePath": "staticwebassets\\Images\\d01dec51-de07-4f87-a633-192cb0407e88_Book15.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\d24aae59-ef8d-43cd-9f62-c1f1ff58ac57_075c80eb-2639-48c6-b6fa-040321304c71_Book7.jpg",
+      "PackagePath": "staticwebassets\\Images\\d24aae59-ef8d-43cd-9f62-c1f1ff58ac57_075c80eb-2639-48c6-b6fa-040321304c71_Book7.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\d29f95f7-8ab6-4779-ab39-5d006cc760b7_075c80eb-2639-48c6-b6fa-040321304c71_Book7.jpg",
+      "PackagePath": "staticwebassets\\Images\\d29f95f7-8ab6-4779-ab39-5d006cc760b7_075c80eb-2639-48c6-b6fa-040321304c71_Book7.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\d2ceb611-760f-43e4-a245-90803f63facf_76d8c132-080e-43ac-8868-b2bead7158de_Book8.jpg",
+      "PackagePath": "staticwebassets\\Images\\d2ceb611-760f-43e4-a245-90803f63facf_76d8c132-080e-43ac-8868-b2bead7158de_Book8.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\d744fc5a-f2aa-4cb9-ac73-62d5a1145d1d_9d80ab2c-646b-4785-b331-fd6525a3879a_Book2.jpg",
+      "PackagePath": "staticwebassets\\Images\\d744fc5a-f2aa-4cb9-ac73-62d5a1145d1d_9d80ab2c-646b-4785-b331-fd6525a3879a_Book2.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\da50b530-4f5d-468d-958b-4225eaeed57d_9989ab5a-8fd1-42f8-988f-c4ea243ba326_Book14.jpg",
+      "PackagePath": "staticwebassets\\Images\\da50b530-4f5d-468d-958b-4225eaeed57d_9989ab5a-8fd1-42f8-988f-c4ea243ba326_Book14.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\de619514-edac-42e7-b936-b4aed899af9e_Book7.jpg",
+      "PackagePath": "staticwebassets\\Images\\de619514-edac-42e7-b936-b4aed899af9e_Book7.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\de8d7e32-a977-4338-8929-2c1c373d19f0_3e5133a7-9305-405a-a365-f30691351266_76d8c132-080e-43ac-8868-b2bead7158de_Book8.jpg",
+      "PackagePath": "staticwebassets\\Images\\de8d7e32-a977-4338-8929-2c1c373d19f0_3e5133a7-9305-405a-a365-f30691351266_76d8c132-080e-43ac-8868-b2bead7158de_Book8.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\download.webp",
+      "PackagePath": "staticwebassets\\Images\\download.webp"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\e6de3633-d0c8-4130-835d-02e32b083854_075c80eb-2639-48c6-b6fa-040321304c71_Book7.jpg",
+      "PackagePath": "staticwebassets\\Images\\e6de3633-d0c8-4130-835d-02e32b083854_075c80eb-2639-48c6-b6fa-040321304c71_Book7.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\e7624180-7759-4587-a886-65eef9529a02_Book15.jpg",
+      "PackagePath": "staticwebassets\\Images\\e7624180-7759-4587-a886-65eef9529a02_Book15.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\e9241090-e839-445f-91bb-71777e50d94d_Book8.jpg",
+      "PackagePath": "staticwebassets\\Images\\e9241090-e839-445f-91bb-71777e50d94d_Book8.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\ea0462b7-908d-4485-aa84-6145b0c1439b_firebase1.png",
+      "PackagePath": "staticwebassets\\Images\\ea0462b7-908d-4485-aa84-6145b0c1439b_firebase1.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\f65c5da8-cb10-4485-945b-9e82311aeb62_sample3.png",
+      "PackagePath": "staticwebassets\\Images\\f65c5da8-cb10-4485-945b-9e82311aeb62_sample3.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\fa35d00e-f445-48dc-adba-86b5ba3f93b2_075c80eb-2639-48c6-b6fa-040321304c71_Book7.jpg",
+      "PackagePath": "staticwebassets\\Images\\fa35d00e-f445-48dc-adba-86b5ba3f93b2_075c80eb-2639-48c6-b6fa-040321304c71_Book7.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\fbeebdaf-e3e7-461b-b07b-3ea0ebaaad2f_Book8.jpg",
+      "PackagePath": "staticwebassets\\Images\\fbeebdaf-e3e7-461b-b07b-3ea0ebaaad2f_Book8.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\fd7ab78f-fc0f-4c87-b200-cfd845147a5e_075c80eb-2639-48c6-b6fa-040321304c71_Book7.jpg",
+      "PackagePath": "staticwebassets\\Images\\fd7ab78f-fc0f-4c87-b200-cfd845147a5e_075c80eb-2639-48c6-b6fa-040321304c71_Book7.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\fe0d9973-8ff8-42c5-8dd8-41f7a2bfe5a1_Book4.webp",
+      "PackagePath": "staticwebassets\\Images\\fe0d9973-8ff8-42c5-8dd8-41f7a2bfe5a1_Book4.webp"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\gallery-07.jpg",
+      "PackagePath": "staticwebassets\\Images\\gallery-07.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\gallery-08.jpg",
+      "PackagePath": "staticwebassets\\Images\\gallery-08.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\gallery-09.jpg",
+      "PackagePath": "staticwebassets\\Images\\gallery-09.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\icons\\favicon.png",
+      "PackagePath": "staticwebassets\\Images\\icons\\favicon.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\icons\\icon-close.png",
+      "PackagePath": "staticwebassets\\Images\\icons\\icon-close.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\icons\\icon-close2.png",
+      "PackagePath": "staticwebassets\\Images\\icons\\icon-close2.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\icons\\icon-email.png",
+      "PackagePath": "staticwebassets\\Images\\icons\\icon-email.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\icons\\icon-heart-01.png",
+      "PackagePath": "staticwebassets\\Images\\icons\\icon-heart-01.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\icons\\icon-heart-02.png",
+      "PackagePath": "staticwebassets\\Images\\icons\\icon-heart-02.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\icons\\icon-next.png",
+      "PackagePath": "staticwebassets\\Images\\icons\\icon-next.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\icons\\icon-pay-01.png",
+      "PackagePath": "staticwebassets\\Images\\icons\\icon-pay-01.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\icons\\icon-pay-02.png",
+      "PackagePath": "staticwebassets\\Images\\icons\\icon-pay-02.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\icons\\icon-pay-03.png",
+      "PackagePath": "staticwebassets\\Images\\icons\\icon-pay-03.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\icons\\icon-pay-04.png",
+      "PackagePath": "staticwebassets\\Images\\icons\\icon-pay-04.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\icons\\icon-pay-05.png",
+      "PackagePath": "staticwebassets\\Images\\icons\\icon-pay-05.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\icons\\icon-prev.png",
+      "PackagePath": "staticwebassets\\Images\\icons\\icon-prev.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\icons\\logo-02.png",
+      "PackagePath": "staticwebassets\\Images\\icons\\logo-02.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\icons\\logo.png",
+      "PackagePath": "staticwebassets\\Images\\icons\\logo.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\icons\\pin.png",
+      "PackagePath": "staticwebassets\\Images\\icons\\pin.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\image01.jpg",
+      "PackagePath": "staticwebassets\\Images\\image01.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\image02.png",
+      "PackagePath": "staticwebassets\\Images\\image02.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\istockphoto-899442422-612x612.jpg",
+      "PackagePath": "staticwebassets\\Images\\istockphoto-899442422-612x612.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\logo.png",
+      "PackagePath": "staticwebassets\\Images\\logo.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\product-11.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-11.jpg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\css\\util.css",
+      "PackagePath": "staticwebassets\\css\\util.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Montserrat\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Montserrat\\Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat\\Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Montserrat\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Montserrat\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Montserrat\\Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat\\Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Montserrat\\Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat\\Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Montserrat\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Montserrat\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Montserrat\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Montserrat\\Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat\\Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Montserrat\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Montserrat\\Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat\\Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Montserrat\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Montserrat\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Montserrat\\Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat\\Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Montserrat\\Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat\\Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Montserrat\\Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat\\Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat\\OFL.txt"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\PlayfairDisplay\\OFL.txt",
+      "PackagePath": "staticwebassets\\fonts\\PlayfairDisplay\\OFL.txt"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\PlayfairDisplay\\PlayfairDisplay-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\PlayfairDisplay\\PlayfairDisplay-Black.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\PlayfairDisplay\\PlayfairDisplay-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\PlayfairDisplay\\PlayfairDisplay-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\PlayfairDisplay\\PlayfairDisplay-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\PlayfairDisplay\\PlayfairDisplay-Bold.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\PlayfairDisplay\\PlayfairDisplay-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\PlayfairDisplay\\PlayfairDisplay-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\PlayfairDisplay\\PlayfairDisplay-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\PlayfairDisplay\\PlayfairDisplay-Italic.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\PlayfairDisplay\\PlayfairDisplay-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\PlayfairDisplay\\PlayfairDisplay-Regular.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\Poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\fonts\\linearicons-v1.0.0\\icon-font.min.css",
+      "PackagePath": "staticwebassets\\fonts\\linearicons-v1.0.0\\icon-font.min.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\js\\map-custom.js",
+      "PackagePath": "staticwebassets\\js\\map-custom.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\js\\slick-custom.js",
+      "PackagePath": "staticwebassets\\js\\slick-custom.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\MagnificPopup\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\vendor\\MagnificPopup\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\MagnificPopup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\vendor\\MagnificPopup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\MagnificPopup\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\vendor\\MagnificPopup\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\vendor\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\jqueryui\\external\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\external\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\jqueryui\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\jqueryui\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\jqueryui\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\jqueryui\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\jqueryui\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\jqueryui\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\jqueryui\\index.html",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\index.html"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\jqueryui\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\jqueryui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\jqueryui\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\jqueryui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\jqueryui\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\jqueryui\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\jqueryui\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\jqueryui\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\lightbox2\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\css\\lightbox.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\lightbox2\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\lightbox2\\images\\close.png",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\images\\close.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\lightbox2\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\images\\loading.gif"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\lightbox2\\images\\next.png",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\images\\next.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\lightbox2\\images\\prev.png",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\images\\prev.png"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\lightbox2\\js\\lightbox-plus-jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\js\\lightbox-plus-jquery.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.map",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\lightbox2\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\js\\lightbox.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\lightbox2\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\lightbox2\\js\\lightbox.min.map",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\js\\lightbox.min.map"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\parallax100\\parallax100.js",
+      "PackagePath": "staticwebassets\\vendor\\parallax100\\parallax100.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\vendor\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\vendor\\slick\\config.rb"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\vendor\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\vendor\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\vendor\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\vendor\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick.css"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick.less"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick.min.js"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick.scss"
+    },
+    {
+      "Id": "D:\\1670\\Application-Developement-\\wwwroot\\vendor\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\vendor\\sweetalert\\sweetalert.min.js"
+    },
+    {
+      "Id": "obj\\\\\\net6.0\\staticwebassets\\msbuild.WebApplication123.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\\\\\net6.0\\staticwebassets\\msbuild.build.WebApplication123.props",
+      "PackagePath": "build\\WebApplication123.props"
+    },
+    {
+      "Id": "obj\\\\\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication123.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication123.props"
+    },
+    {
+      "Id": "obj\\\\\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication123.props",
+      "PackagePath": "buildTransitive\\WebApplication123.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

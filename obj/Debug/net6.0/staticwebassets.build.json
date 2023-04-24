@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "saKfkvMdEDimr2+Yvq2sQH7YZHpqCXoPXZD+v6o+Di8=",
+  "Hash": "NpXV/bmEvCKgCqlHivTF12eH76A4O3u9szCy0iea2SA=",
   "Source": "WebApplication123",
   "BasePath": "_content/WebApplication123",
   "Mode": "Default",
@@ -4061,6 +4061,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\ea0462b7-908d-4485-aa84-6145b0c1439b_firebase1.png"
+    },
+    {
+      "Identity": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\ed7db7f5-f4dd-413c-9889-3ad6102f8e09_Book7.jpg",
+      "SourceId": "WebApplication123",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\1670\\Application-Developement-\\wwwroot\\",
+      "BasePath": "_content/WebApplication123",
+      "RelativePath": "Images/ed7db7f5-f4dd-413c-9889-3ad6102f8e09_Book7.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\ed7db7f5-f4dd-413c-9889-3ad6102f8e09_Book7.jpg"
     },
     {
       "Identity": "D:\\1670\\Application-Developement-\\wwwroot\\Images\\f65c5da8-cb10-4485-945b-9e82311aeb62_sample3.png",

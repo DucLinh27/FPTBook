@@ -66,8 +66,8 @@ namespace WebApplication123.Areas.Identity.Pages.Account.Manage
             ///     directly from your code. This API may change or be removed in future releases.
             /// </summary>
             [Phone]
-            [Display(Name = "Phone number")]
-            public string PhoneNumber { get; set; }
+            [Display(Name = "FullName")]
+            public string FullName { get; set; }
             
             [Display(Name = "Address")]
             public string Address { get; set; }
@@ -76,7 +76,7 @@ namespace WebApplication123.Areas.Identity.Pages.Account.Manage
         private async Task LoadAsync(IdentityUser user)
         {
             var userName = await _userManager.GetUserNameAsync(user);
-            var phoneNumber = await _userManager.GetPhoneNumberAsync(user);
+            var fullName = await _userManager.GetPhoneNumberAsync(user);
             
             // taking current login user id
             var claimsIdentity = (ClaimsIdentity)User.Identity;
@@ -88,7 +88,7 @@ namespace WebApplication123.Areas.Identity.Pages.Account.Manage
 
             Input = new InputModel
             {
-                PhoneNumber = phoneNumber,
+                FullName = userFromDb.FullName,
                 Address = userFromDb.Address
             };
         }
@@ -120,9 +120,9 @@ namespace WebApplication123.Areas.Identity.Pages.Account.Manage
             }
 
             var phoneNumber = await _userManager.GetPhoneNumberAsync(user);
-            if (Input.PhoneNumber != phoneNumber)
+            if (Input.FullName != phoneNumber)
             {
-                var setPhoneResult = await _userManager.SetPhoneNumberAsync(user, Input.PhoneNumber);
+                var setPhoneResult = await _userManager.SetPhoneNumberAsync(user, Input.FullName);
                 if (!setPhoneResult.Succeeded)
                 {
                     StatusMessage = "Unexpected error when trying to set phone number.";
